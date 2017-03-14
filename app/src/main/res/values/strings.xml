@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">PereiraTuristica</string>
+    <string name="titulo">Pereira</string>
+    <string name="username">Nombre de Usuario</string>
+    <string name="password">Contraseña</string>
+    <string name="iniciar">Iniciar sesión</string>
+    <string name="registrese">Regístrese</string>
+    <string name="repassword">Repetir Contraseña</string>
+    <string name="correo">Correo electrónico</string>
+    <string name="cancel">Cancelar</string>
+    <string name="registro">Registro</string>
+    <string name="miperfil">Mi Perfil</string>
+    <string name="cerrar">Cerrar Sesión</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hotel1">Movich</string>
+    <string name="hotel2">Soratama</string>
+    <string name="fragment1">Hotel1</string>
+    <string name="fragment2">Hotel2</string>
+    <string name="title_activity_hoteles">HotelesActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="parque1">Parque1</string>
+    <string name="descrip">Parque para visitar en familia</string>
+    <string name="direccion">Cra 8 Cll 17</string>
+    <string name="title_activity_drawer">DrawerActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+</resources>
